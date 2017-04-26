@@ -1,6 +1,6 @@
 {
   "name": "call-once-in-interval",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calls the passed function once in the passed interval.",
   "main": "index.js",
   "scripts": {
