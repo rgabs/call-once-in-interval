@@ -1,4 +1,4 @@
-# call-once-in-interval
+# call-once-in-interval ([NPM URL](https://www.npmjs.com/package/call-once-in-interval))
 A JavaScript module which calls the passed function once in the passed interval.
 * @param {Function} `functionTobeCalled` The function to be called in the interval.
 * @param {number} [`interval`=600] The interval (in milliseconds) within which the function will not be called.
