@@ -1,0 +1,32 @@
+{
+  "name": "call-once-in-interval",
+  "version": "1.0.0",
+  "description": "Calls the passed function once in the passed interval.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test/**.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgabs/call-once-in-interval.git"
+  },
+  "keywords": [
+    "javascript",
+    "call",
+    "interval",
+    "once",
+    "function",
+    "submit",
+    "handle",
+    "form"
+  ],
+  "author": "Rahul Gaba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgabs/call-once-in-interval/issues"
+  },
+  "homepage": "https://github.com/rgabs/call-once-in-interval#readme",
+  "devDependencies": {
+    "jest": "^19.0.2"
+  }
+}
